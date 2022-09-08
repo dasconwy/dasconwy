@@ -1,0 +1,77 @@
+- 👋 Hi, I’m @dasconwy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+dasconwy/dasconwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+### Keybase proof
+
+I hereby claim:
+
+  * I am dasconwy on github.
+  * I am junctionlad (https://keybase.io/junctionlad) on keybase.
+  * I have a public key ASB8xcsJQhI0sFQbb_X9u3v6W0qJgmSCUuFxE3vo52fV-Qo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207cc5cb09421234b0541b6ff5fdbb7bfa5b4a8982648252e171137be8e767d5f90a",
+      "host": "keybase.io",
+      "kid": "01207cc5cb09421234b0541b6ff5fdbb7bfa5b4a8982648252e171137be8e767d5f90a",
+      "uid": "94934394ae9018e563d17b0d17fdf319",
+      "username": "junctionlad"
+    },
+    "merkle_root": {
+      "ctime": 1662678649,
+      "hash": "ddb82c4e20a83c349477efb3dbcb2d11bfcd92af1c027810dbae7f912925e3d20bc54e0c600c97ea5b19ff1f8bf557bb5fb1a16fc06630100df3f82b1b4e7c00",
+      "hash_meta": "8a95c05985d8e587406fbfd97b0ae0fc59c1a09510463654cb704e19c75d9899",
+      "seqno": 23163688
+    },
+    "service": {
+      "entropy": "tLYfJIj0HP9MdJC7OlqbS+Be",
+      "name": "github",
+      "username": "dasconwy"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1662678767,
+  "expire_in": 504576000,
+  "prev": "17887c40fad41ec47171e54fae9ed0c6ed066333b13ab7a5f1a37dbf112b63cf",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASB8xcsJQhI0sFQbb_X9u3v6W0qJgmSCUuFxE3vo52fV-Qo](https://keybase.io/junctionlad), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfMXLCUISNLBUG2/1/bt7+ltKiYJkglLhcRN76Odn1fkKp3BheWxvYWTESpcCBMQgF4h8QPrUHsRxceVPrp7Qxu0GYzOxOrel8aN9vxErY8/EIDh9P6OlKNNyqPsuX/fQ35TQc92Z5GqcwCSVKWhFzEdWAgHCo3NpZ8RA31Kvepyj3zlF70LaApq1b1PCW7jQ0U5jpN54uI/vNgpm3uACOoRTcnTK5x1ZpBV8FuK3wkOQRTtgzsn/GskvDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOyES+PVq4S6oioUxofszKvQ0H9jjH74L9QjUUsB7GXdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/junctionlad
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id junctionlad
+```
